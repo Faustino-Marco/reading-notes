@@ -12,7 +12,8 @@ As opposed to *fixed* mindset, *Growth Mindset* provides a flexible and encourag
 
 Here are a handful of reminders for myself that embrace ***Growth Mindset***.
 
-1. Instead of telling myself ~~I can't do this~~, I must remember that I can do anything I set my mind to, and that help is available to those who ask for it.
+1. Reminder One
+   -Instead of telling myself ~~I can't do this~~, I must remember that I can do anything I set my mind to, and that help is available to those who ask for it.
 3. Challenges are opportunities for growth!
 4. No one is perfect, perfection is the nemesis of progress.
 
