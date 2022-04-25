@@ -9,4 +9,4 @@ My blurb about growth mindset.
 2. Reminder two
 3. Reminder three
 
-Here's a [link](https://github.com/faustino-marco) to my github homepage.
+Here's a [link](https://github.com/faustino-marco) to my github page.
