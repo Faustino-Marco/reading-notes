@@ -1,6 +1,6 @@
 # My Reading Notes
 
-=====
+This is where I can keep reading notes from material I study while I'm learning to code!
 
 ## About Me
 Hello! My name is Faustino Marco, you can call me Marco. Thanks for visiting my new webpage!
@@ -31,3 +31,20 @@ If you're interested in learning more about Growth Mindset, you can find more in
 ### My Github Portfolio
 
 Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
+
+#### Requirements for this assignment
+
+- [x] Your site should exist at https://USERNAME.github.io/reading-notes/
+- [x]  The "source" for your site should be a README.md file, written with Markdown
+- [x]  On the main page: Explain "growth mindset" in your own words
+- [x]  Include 3 reminders to yourself of how to keep yourself in a growth mindset
+- [x]  Utilize at least 5 different features of Markdown to structure your page
+- [x]  Be sure to introduce yourself, and include a link to your GitHub portfolio page
+
+
+
+
+
+
+
+
