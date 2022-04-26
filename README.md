@@ -37,14 +37,14 @@ Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
 
 4.25.22
 
-Something I learned from today's text is how to create a checklist. Below are the items we need to include on our reading notes pages:
+Something I learned from today's text is how to create a checklist. Below are the items we needed to include on our reading notes pages:
 
-- [x]  Your site should exist at https://USERNAME.github.io/reading-notes/
-- [x]  The "source" for your site should be a README.md file, written with Markdown
-- [x]  On the main page: Explain "growth mindset" in your own words
-- [x]  Include 3 reminders to yourself of how to keep yourself in a growth mindset
-- [x]  Utilize at least 5 different features of Markdown to structure your page
-- [x]  Be sure to introduce yourself, and include a link to your GitHub portfolio page
+- [x]    Your site should exist at https://USERNAME.github.io/reading-notes/
+- [x]    The "source" for your site should be a README.md file, written with Markdown
+- [x]    On the main page: Explain "growth mindset" in your own words
+- [x]    Include 3 reminders to yourself of how to keep yourself in a growth mindset
+- [x]    Utilize at least 5 different features of Markdown to structure your page
+- [x]    Be sure to introduce yourself, and include a link to your GitHub portfolio page
 
 
 
