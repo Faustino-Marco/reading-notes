@@ -64,3 +64,6 @@ Tips
 
 Integrated Development Environment is a suite of software like editor, file mgr, compiler, debugger, etc.
 
+## Check out the command line
+
+Next, check out my notes on the command line reading [here](command-line.md).
