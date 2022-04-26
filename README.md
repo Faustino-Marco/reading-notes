@@ -33,6 +33,8 @@ If you're interested in learning more about Growth Mindset, you can find more in
 
 Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
 
+And [Here](Markdown.md)'s a link to my Markdown notes.
+
 #### Tips and Tricks from Class Reading-Material
 
 
