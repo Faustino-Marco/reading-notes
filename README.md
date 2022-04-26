@@ -7,10 +7,11 @@ Hello! My name is Faustino Marco, you can call me Marco. Thanks for visiting my 
 
 ### Growth Mindset
 
-*Growth Mindset* is an ideology to embrace in a holistic and comprehensive manner both personally and professionally.
+*Growth Mindset* is an ideology to embraced personally and professionally as a means to holistically free people from their limiting beliefs and stagnating mores.
+
 As opposed to *fixed* mindset, *Growth Mindset* provides a flexible and encouraging way to view life and its challenges. 
 
-The concept reframes archaic limiting belief systems that have enshrouded the status quo in education and societal progress for centuries.
+The concept reframes archaic belief systems that have enshrouded the status quo in education and societal progress for centuries, which have held many people to the belief that their capacity for intelligence is unchangeable.
 
 Here are a handful of reminders for myself that embrace ***Growth Mindset***.
 
