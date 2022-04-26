@@ -35,6 +35,7 @@ Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
 
 #### Tips and Tricks from Class Reading-Material
 
+
 4.25.22
 
 Something I learned from today's text is how to create a checklist. Below are the items we needed to include on our reading notes pages:
