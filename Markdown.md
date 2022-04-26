@@ -14,7 +14,7 @@ Using *Markdown* I've successfully drafted everything you've read so far on this
 
 Using combinations of symbols, Markdown manages stylistic decisions like when to use *italics*, **bold text**, or ***both*** with ease.
 
-#### Headings Are A Breeze In Markdown, Too
+### Headings Are A Breeze In Markdown, Too
 
 Simply ordering the quantitiy of '#' symbols in front of a line of text dictates the size of the heading.
 
