@@ -33,9 +33,13 @@ If you're interested in learning more about Growth Mindset, you can find more in
 
 Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
 
-#### Requirements for this assignment
+#### Tips and tricks from class reading-material
 
-- [x] Your site should exist at https://USERNAME.github.io/reading-notes/
+4.25.22
+
+Something I learned from today's text is how to create a checklist. Below are the items we need to include on our reading notes pages:
+
+- [x]  Your site should exist at https://USERNAME.github.io/reading-notes/
 - [x]  The "source" for your site should be a README.md file, written with Markdown
 - [x]  On the main page: Explain "growth mindset" in your own words
 - [x]  Include 3 reminders to yourself of how to keep yourself in a growth mindset
