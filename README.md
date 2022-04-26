@@ -33,7 +33,7 @@ If you're interested in learning more about Growth Mindset, you can find more in
 
 Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
 
-And [Here](Markdown.md)'s a link to my Markdown notes.
+And [here](Markdown.md)'s a link to my Markdown notes page.
 
 #### Tips and Tricks from Class Reading-Material
 
@@ -48,6 +48,8 @@ Something I learned from today's text is how to create a checklist. Below are th
 - [x]    Include 3 reminders to yourself of how to keep yourself in a growth mindset
 - [x]    Utilize at least 5 different features of Markdown to structure your page
 - [x]    Be sure to introduce yourself, and include a link to your GitHub portfolio page
+
+
 
 
 
