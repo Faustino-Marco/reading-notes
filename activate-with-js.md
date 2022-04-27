@@ -181,3 +181,7 @@ let $myMoney = 5;
 In this reading assignment we were also given a link to a series of videos that briefly explain how computers work.
 
 [Here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)'s that site with the videos.
+
+## Demo Notes
+
+`=` is the assignment operator

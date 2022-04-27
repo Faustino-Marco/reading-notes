@@ -50,6 +50,8 @@
 
 ## Mozilla HTML Basics 
 
+Skim the page [here](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics). 
+
 ## Semantics
 
 - semantic tags plainly describe their own meaning 
@@ -59,3 +61,7 @@
 - naturally, footer should be below main
 
 ## Mozilla HTML Docs / Elements
+
+Docs link [here](https://developer.mozilla.org/en-US/docs/Web/HTML).
+
+Elements link [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
