@@ -31,3 +31,16 @@ If I wanted to write a piece of text that ought to stand alone I can make that h
 ```
 
 These stylistic commands make it simple to pack a visual punch in a quick and easy way.
+
+#### Tips and Tricks from Class Reading-Material
+
+Something I learned from the text is how to create a checklist. Below are the items we needed to include on our first reading notes pages:
+
+- [x]    Your site should exist at https://USERNAME.github.io/reading-notes/
+- [x]    The "source" for your site should be a README.md file, written with Markdown
+- [x]    On the main page: Explain "growth mindset" in your own words
+- [x]    Include 3 reminders to yourself of how to keep yourself in a growth mindset
+- [x]    Utilize at least 5 different features of Markdown to structure your page
+- [x]    Be sure to introduce yourself, and include a link to your GitHub portfolio page
+
+[Back to Home](README.md) 

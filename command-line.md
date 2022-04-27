@@ -51,3 +51,5 @@ To find out which shell you're using use cmd 'echo' to display a system variable
 ### Shortcuts
 
 traverse command history using up and down arrow keys
+
+[Back to Home](README.md)

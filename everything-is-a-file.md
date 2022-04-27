@@ -1,4 +1,4 @@
-# Everything Is A File! 
+# Everything Is A File
 
 In Linux, everything is a file.
 - files
@@ -26,3 +26,4 @@ Spaces are allowed in file names, so be careful in the command line, use quotes 
 
 Pro Tip: Tab completion will automatically excape any spaces in the name for you.
 
+[Back to Home](README.md)

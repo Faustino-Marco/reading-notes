@@ -67,3 +67,9 @@ Integrated Development Environment is a suite of software like editor, file mgr,
 ## Check out the command line
 
 Next, check out my notes on the command line reading [here](command-line.md).
+
+* a
+- a
++ a 
+
+[Back to Home](README.md)
