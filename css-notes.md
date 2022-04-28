@@ -1,5 +1,5 @@
 # CSS Notes 
-
+[video](https://www.youtube.com/watch?v=1PnVor36_40)
 ## Reading Notes 
 
 ### What is CSS? 
