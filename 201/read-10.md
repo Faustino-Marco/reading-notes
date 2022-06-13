@@ -1,0 +1,31 @@
+# READ 10: DEBUGGING
+
+- order of execution
+  - we'll get better at reading the debugger ovr time.
+- execution contexts
+  - global
+  - function
+  - eval (not shown)
+- variable scope
+  - global scope
+  - function-level scope
+- execution context & hoisting
+  - prepare
+    - scope created
+    - vars, funcs, args created
+    - value of this. keyword determined
+  - execute
+    - assign values to vars
+    - reference funcs and run code
+    - executes statements
+- objects
+  - error objects hold different types of erros and descriptions
+- syntaxerrors, reference errors, eval errors, urierrors
+- can use browser debugging tools
+- use console.log(); to get proof of life
+
+- seek to understand execution contexts and stacks
+- debugging is finding errors
+- console helps narrow down area in which error is located
+- JS has 7 types of errors, each with its own object
+- try, catch, finally
