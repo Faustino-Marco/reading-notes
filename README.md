@@ -58,6 +58,9 @@ This site is where I keep my reading notes from the material I study while I'm l
 ## Code 301 - Intermediate Software Development
 - Read 01 "INTRODUCTION TO REACT AND COMPONENTS"
    - [Read-01](301/read-01.md)
+   - [Read-02](301/read-02.md)
+   - [Read-03](301/read-03.md)
+   - [Read-04](301/read-04.md)
 
 ## Code 401 - Advanced Software Development
 
