@@ -61,8 +61,20 @@ This site is where I keep my reading notes from the material I study while I'm l
    - [Read-02](301/read-02.md)
    - [Read-03](301/read-03.md)
    - [Read-04](301/read-04.md)
+   - [Read-05](301/read-05.md)
+   - [Read-06](301/read-06.md)
+   - [Read-07](301/read-07.md)
+   - [Read-08](301/read-08.md)
+   - [Read-09](301/read-09.md)
+   - [Read-10](301/read-10.md)
+   - [Read-11](301/read-11.md)
+   - [Read-12](301/read-12.md)
+   - [Read-13](301/read-13.md)
+   - [Read-14](301/read-14.md)
+   - [Read-15](301/read-15.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development (Python)
+   - [Read-01](401/read-01.md)
 
 ### My Github Portfolio
 
