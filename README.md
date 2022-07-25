@@ -8,6 +8,7 @@ This site is where I keep my reading notes from the material I study while I'm l
 <em>Hello!</em> My name is Faustino Marco, you can call me Marco. Thanks for visiting my new webpage! 
 
 > I'm currently studying software development with a focus in Advanced Python programming. My background is in the service industry, where I spent almost 10 years honing technical and interpersonal skills that make me a great speaker, listener, and compassionate confidante. I have a knack for foreign language acquisition and I love to travel and learn about our planet and the people living on it. I want to help others, and outside of the volunteer work I do I want to serve my community and the world at large by making use of my ability to listen, learn fast, create and implement plans. I want programming to become the medium through which I help others change the world.
+<hr>
 
 ## Code 102 - Intro to Software Development
 
@@ -25,6 +26,7 @@ This site is where I keep my reading notes from the material I study while I'm l
 - Revisions and the Cloud
    - [Git Lecture Notes](Git-notes.md)
    - [Revisions and the Cloud](Revisions%26Cloud.md)
+<hr>
 
 ## Code 201 - Foundations of Software Development
 
@@ -54,6 +56,7 @@ This site is where I keep my reading notes from the material I study while I'm l
    - [Read-13](201/read-13.md)
 - Read 14 "GOOGLE TEAMS RESEARCH/ETC"
    - [Read-14](201/read-14.md)
+<hr>
 
 ## Code 301 - Intermediate Software Development
 - Read 01 "INTRODUCTION TO REACT AND COMPONENTS"
@@ -72,10 +75,15 @@ This site is where I keep my reading notes from the material I study while I'm l
    - [Read-13](301/read-13.md)
    - [Read-14](301/read-14.md)
    - [Read-15](301/read-15.md)
+<hr>
 
 ## Code 401 - Advanced Software Development (Python)
    - [Read-01](401/read-01.md)
-
+   - [Read-02](401/read-02.md)
+   - [Read-03](401/read-03.md)
+   - [Read-04](401/read-04.md)
+   - [Read-05](401/read-05.md)
+   <hr>
 ### My Github Portfolio
 
 Here's a [link](https://github.com/faustino-marco) to my GitHub portfolio page.
